@@ -1,0 +1,24 @@
+{
+  "name": "thing-it-device-riot",
+  "version": "0.0.1",
+  "description": "[thing-it-node] Device Plugin to communicate with RioT Nodes",
+  "main": "riotGateway.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slotto/thing-it-device-riot.git"
+  },
+  "keywords": [
+    "IoT",
+    "thing-it-node",
+    "RIOT"
+  ],
+  "author": "Julian Seibert",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/slotto/thing-it-device-riot/issues"
+  },
+  "homepage": "https://github.com/slotto/thing-it-device-riot#readme"
+}
